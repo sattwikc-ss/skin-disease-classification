@@ -1,5 +1,5 @@
-flask
+streamlit
 tensorflow
-pillow
 numpy
-gunicorn
+pillow
+
